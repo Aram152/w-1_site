@@ -1,0 +1,9 @@
+.sotial__item, .menu__list, .logo, .menu, .sotial, .contacts{
+    display: inline-block;
+}
+
+.footer{
+    margin-top: 53px;
+    margin-bottom: 0;
+    background-color: #17191C;
+}
