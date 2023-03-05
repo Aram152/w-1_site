@@ -4,6 +4,62 @@
 
 .footer{
     margin-top: 53px;
-    margin-bottom: 0;
     background-color: #17191C;
+}
+
+.footer__container{
+    max-width: 1142px;
+    max-height: 92.64px;
+}
+
+.contacts__end{
+    width: 163px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    margin-left: 102px;
+}
+.contacts__phone{
+    margin-left: 74px;
+    width: 191px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 20px;
+    color: red;
+}
+
+
+.sotial{
+    margin-left: 111px;
+    margin-right: 0;
+}
+
+.sotial__item{
+    margin-left: 10px;
+    width: 36px;
+    height: 36px;
+}
+.sotial__item:first-child{
+    margin-left: 0;
+}
+
+.menu--footer{
+    font-size: 14px;
+    line-height: 19.07px;
+    font-weight: 400;
+    margin-left: 130px;
+}
+.menu__link--main{
+    width: 56px;
+    height: 19px;
+}
+.menu__link--services{
+    width: 46px;
+    height: 19px;
+}
+.menu__link-reviews{
+    width: 54px;
+    height: 19px;
 }
