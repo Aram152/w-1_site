@@ -1,6 +1,9 @@
 .header{
-    height: 77px;
     position: relative;
+}
+.header__container{
+    height: 77px;
+    width: 1142px;
 }
 
 .menu__item{
@@ -8,4 +11,16 @@
 }
 .menu__link{
     text-decoration: none;
+}
+
+.contacts__phone{
+    width: 191px;
+    height: 35px;
+    font-size: 26px;
+    line-height: 35.41px;
+    font-weight: 400;
+}
+
+.menu{
+    margin-left: 241px;
 }
