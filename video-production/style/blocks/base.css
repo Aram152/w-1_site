@@ -9,6 +9,7 @@ body{
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /* background-color: #17191C; */
 }
 
 body, html{
@@ -53,10 +54,12 @@ img{
 
 .wrapper{
     min-height: 100%;
+    background-color: #17191C;
+
 }
 
 .wrapper__content{
-    background: #17191C;
+    /* background-color: #17191C; */
     height: 100%;
     position: relative;
 }
@@ -85,7 +88,7 @@ img{
 }
 
 .menu{
-    margin-left: 79px;
+    /* margin-left: 79px; */
     margin-top: 43px;
 }
 
