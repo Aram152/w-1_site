@@ -2,10 +2,11 @@
     margin-top: 233px;
     width: 100%;
     height: 100%;
-    max-width: 1140px
+    max-width: 1142px
 }
 
 .offer__item{
+    display: inline-block;
     width: 362px;
     height: 476px;
     background-color: #fff;
@@ -20,25 +21,31 @@
     width: 102px;
     height: 41px;
     margin: 17px 0 0 22px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
 }
 .offer__feature-text--time{
     width: 123px;
     height: 41px;
     margin: 0 0 0 81px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
 }
 .offer__text{
     width: 306px;
     height: 66px;
     margin: 25px 34px 47px 22px;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
 }
 .button--light{
     margin-right: 195px;
     margin-left: 24px;
 }
 
-.offer__item{
-    display: inline-block;
-}
 .offer__feature{
     display: inline-block;
 }
@@ -54,9 +61,12 @@
     margin-left: 29px;
 }
 .offer__title{
-    width: 146px;
+    /* width: 146px; */
     height: 44px;
     margin-top: 30px;
     margin-right: 146px;
     margin-left: 22px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
 }
