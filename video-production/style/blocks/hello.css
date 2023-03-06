@@ -1,9 +1,9 @@
 .hello__container{
     text-align: center;
-    width: 776px;
+    width: 781px;
     height: 197px;
     text-align: center;
-    background: none;
+    background:none;
     position: relative;
 }
 
@@ -11,9 +11,9 @@
     margin-top: 157px;
     font-weight: 800;
     font-size: 72px;
+    font-style: normal;
     line-height: 98px;
     text-transform: uppercase;
-    text-align: center;
 }
 
 .hello__text{
