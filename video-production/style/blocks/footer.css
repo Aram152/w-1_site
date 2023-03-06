@@ -10,7 +10,7 @@
 }
 
 .footer__container{
-    border-top: 4px solid #fff;
+    border-top: 4px solid #252729;
     /* opacity: 0.1; */
 }
 
@@ -33,7 +33,8 @@
 
 
 .sotial{
-    margin-left: 111px;
+    margin-top: 49px;
+    margin-left: 505px;
     margin-right: 0;
 }
 
@@ -51,8 +52,10 @@
     font-size: 14px;
     line-height: 19.07px;
     font-weight: 400;
-    margin-top: 59px;
+    /* margin-top: 59px; */
     margin-left: 130px;
+    position: absolute;
+    top: 20px;
 }
 .menu__link--main{
     width: 56px;
@@ -66,10 +69,10 @@
     width: 54px;
     height: 19px;
 }
-/* 
+
 .logo--footer{
-    margin-top: 0;
+    margin-top: 40;
 }
 .contacts--footer{
-    margin-top: 0;
-} */
+    margin-top: 42;
+}
